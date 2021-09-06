@@ -1,7 +1,7 @@
 # TFG-Cooperative-Coevolutionary-Algorithms
 Final project for a double degree in Computer Science and Mathematics. Covers introductory and advanced topics on evolutionary algorithms and CCEAs.
 
-Provided code implements an experiment comparing performance of an evolutionary algorithm against its cooperative coevolutionary adaptation on optimizing a Boltzann machine. The weights of this network are predefined in a way that problem decomposition can be exploited. In order to replicate such experiments, the next steps must be followed:
+Provided code implements an experiment comparing performance of an evolutionary algorithm against its cooperative coevolutionary adaptation on optimizing a Boltzmann machine. The weights of this network are predefined in a way that problem decomposition can be exploited. In order to replicate such experiments, the next steps must be followed:
 
   1. Compile the executables with the make command.
   2. Run the dependency_extraction exe to generate the weights and read the dependencies into a file.
