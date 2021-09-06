@@ -11,3 +11,5 @@ Provided code implements an experiment comparing performance of an evolutionary 
   6. Obtained results can be visualized and analyzed within the comparison_EAvsCCEA notebook.
 
 The attached report is written in Spanish with an extended summary in English at the beginning. For any question on the topics of this project or CCEAs, issues are accepted.
+
+We give special recognition to the libnpy library and its creator, as they have been of useful in the implementation of this project.
