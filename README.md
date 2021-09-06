@@ -7,7 +7,7 @@ Provided code implements an experiment comparing performance of an evolutionary 
   2. Run the dependency_extraction exe to generate the weights and read the dependencies into a file.
   3. Run the code in the dependency_analysis Jupyter Notebook to group the variables into clusters and generate a .txt file that will be read by the CCEA algorithm in the first experiment.
   4. Now you can execute the CCEAvsEA program. CCEAvsEA_2 can be executed right after compilation, since it generates its own weights assuming a specific variable clustering as domain knowledge.
-  5. Both, CCEAvsEA and CCEAvsEA_2 can be easily modified to read the previously generated weights (in case of CCEAvsEA_2, by following the indications on the comments) and repeat the experiment as many times as desired.
+  5. Both, CCEAvsEA and CCEAvsEA_2 can be easily modified to read the previously generated weights (in case of CCEAvsEA_2, by following the indications on the comments) and repeat the experiment as many times as desired. The weights used for the first experiment are included in the Results folder. Those for the second one  have not been included because of size constraints.
   6. Obtained results can be visualized and analyzed within the comparison_EAvsCCEA notebook.
 
 The attached report is written in Spanish with an extended summary in English at the beginning. For any question on the topics of this project or CCEAs, issues are accepted.
